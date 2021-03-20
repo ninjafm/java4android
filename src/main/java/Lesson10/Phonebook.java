@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Phonebook {
+public class PhoneBook {
     private HashMap<String, ArrayList<String>> phonebook = new HashMap<>();
     private ArrayList<String> phonesList;
 
